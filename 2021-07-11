@@ -1,0 +1,28 @@
+---
+subject: 'Issue #13: Git Best Practices'
+---
+
+Welcome to this weeks issue! After reading some articles this week about running (which you can find below) I'm now going for a run. 🏃🏻‍♂️
+
+# Tweet of The Week
+https://twitter.com/emily_dawnxo/status/1412016062166601729
+
+# Culture
+* [Tweet by @adamhjk](https://twitter.com/adamhjk/status/1413173291909484558) (twitter.com/adamhjk) — Adam Jacobs take on the OSS vs. GitHub copilot debate.
+* [Mad Men. Furious Women.](https://zoescaman.substack.com/p/mad-men-furious-women) (zoescaman.substack.com) — Zoe talks about misogyny the ad industry and how women start to get fed up with it.
+
+# Sofware Engineering
+* [Where are we going from here? Software engineering needs formal methods](https://ntietz.com/tech-blog/future-of-software-engineering-is-formal-methods/) (ntietz.com) — Nicholas Tietz-Sokolsky about the software engineering process and how formal methods improve it.
+* [Commit Often, Perfect Later, Publish Once: Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) (sethrobertson.github.io) — Seth Robertson has compiled a list of best practices when dealing with git.
+* [Software Estimation Is Hard. Do It Anyway.](https://jacobian.org/2021/may/20/estimation) (jacobian.org) — Jacob Kaplan-Moss on software estimation and why is it important, even when it's often inaccurate. 
+
+# Rust
+* [What Can Coerce, and Where, in Rust](https://www.possiblerust.com/guide/what-can-coerce-and-where-in-rust) (possiblerust.com) — Andrew Lilley Brinker goes in depth in his post about coercion in Rust.
+* [What the Error Handling Project Group is Working Towards](https://blog.rust-lang.org/inside-rust/2021/07/01/What-the-error-handling-project-group-is-working-towards.html) (blog.rust-lang.org) — Jane Lusby talks about the current state of error handling in Rust and how it will improve in the future.
+* [What is you elevator pitch for Rust?](https://users.rust-lang.org/t/what-is-you-elevator-pitch-for-rust/61713) (users.rust-lang.org) — If you ever wondered what all the fuss is about, check out this thread by bexxmodd.
+
+# Cutting Room Floor
+* [Do We Really Need to Take 10,000 Steps a Day for Our Health?](https://www.nytimes.com/2021/07/06/well/move/10000-steps-health.html) (nytimes.com) — Gretchen Reynolds about how upping your step count by a few thousand steps might even be better in some cases than doing 10k steps a day.
+* [How I Tricked Myself Into Liking Running](https://www.nytimes.com/2021/04/16/well/move/starting-running-jogging.html) (nytimes.com) — Farah Miller has  some great tips if you want to get into running. 
+* [No More Movies](https://jayriverlong.github.io/2021/07/05/movies.html) (jayriverlong.github.io) — Jay Riverlong provides 5 reasons why movies are less and less relevant.
+* [Why White People Don’t Use White Emoji](https://www.theatlantic.com/politics/archive/2016/05/white-people-dont-use-white-emoji/481695/) (theatlantic.com) — Andrew McGill about why white people should stop using the yellow skin color.
